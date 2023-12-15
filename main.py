@@ -41,7 +41,6 @@ list1.pop(1)  # list1 = ['x', 'z', 5, 6, 77]
 
 list1.insert(1,"y")  # list1 = ['x', 'y', 'z', 5, 6, 77]
 
-print("ali hoca ile deneme")
 
 
 
