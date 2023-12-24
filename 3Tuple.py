@@ -18,7 +18,7 @@ tuple2[1:]  # ('y', 'z', [1, 2, 3])
 
 # I change some values #
 
-tuple1[0] =99  # TypeError: 'tuple' object does not support item assignment
+tuple1[0] =99  # TypeError: 'tuple'  object does not support item assignment
 
 # Some tuple methods #
 
