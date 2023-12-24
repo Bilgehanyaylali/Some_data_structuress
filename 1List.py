@@ -31,7 +31,7 @@ list2[1] = 9999  # list2 = ['x', 9999, 'z']
 
 list1[0:4] = list2  # list1 = ['x', 9999, 'z', 5, 6]
 
-# Some List Methods #
+# Some List Methods  #
 
 len(list1)  # 5
 
