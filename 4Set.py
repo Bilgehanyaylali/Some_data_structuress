@@ -27,7 +27,7 @@ set1.union(set2)  # {1, 2, 3, 4, 5, 6, 'z', 'x', 'y'}
 
 set1.union(set3)  # {1, 2, 3, 4, 5, 6, 99, 100, 101}
 
-# Returns whether two sets have a intersection or not #
+# Returns whether two sets have a intersection or  not #
 
 set1.isdisjoint(set2)  # False
 
