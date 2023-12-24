@@ -14,7 +14,7 @@ dictionary2["b"]  # [2, "y"]
 
 dictionary2["c"][1]  # 'z'
 
-dictionary2.get("c")  # [3, "z"]
+dictionary2.get("c")   # [3, "z"]
 
 # Key inquiry #
 
