@@ -44,11 +44,12 @@ set1.issuperset(set3)  # False
 # I try to access Items in set #
 
 for i in set2:
-    print(i)   # 1
-               # 2
-               # z
-               # x
-               # y
+    print(i)   
+# 1
+# 2
+# z
+# x
+# y
 
 # I add item into set #
 
